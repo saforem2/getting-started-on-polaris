@@ -188,13 +188,13 @@ date modified: Wednesday, September 21st 2022, 9:18:51 pm
 ![](https://raw.githubusercontent.com/saforem2/ATPESC-StatisticalLearning/main/docs/assets/port-forwarding.svg) <!-- .element align="center" -->
 
 ---
-<!-- .slide style="text-align:left;text-size:60%;" -->
+<!-- .slide style="text-align:left;text-size:border-radius:8px; 60%;" -->
 
 ### Port Forwarding
 
-6. Connect `localhost` to compute node running Jupyter.
+3. Connect `localhost` to compute node running Jupyter.
 
-7. Starting from your <span style="color:#00CCFF">**local machine**</span>
+4. Starting from your <span style="color:#00CCFF">**local machine**</span>
   ```bash
   # 1: localhost <--> polaris-login-01
   ssh -L localhost:8899:localhost:8899 <username>@polaris.alcf.anl.gov
