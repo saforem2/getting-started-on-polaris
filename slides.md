@@ -214,12 +214,6 @@ date modified: Wednesday, September 21st 2022, 9:18:51 pm
 </div>
 
 ---
-<!-- .slide style="text-align:left;" -->
-
-# <span style="border-bottom:8px solid #00CCFF;"> Linear Regression</span>
-
----
-
 
 <style>
 
