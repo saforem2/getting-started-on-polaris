@@ -22,7 +22,7 @@ date modified: Wednesday, September 21st 2022, 9:18:51 pm
 
 [<i class="fab fa-github fa-1x" alt="`fas:Github`"/> Getting Started](https://github.com/argonne-lcf/GettingStarted) <!-- .element style="font-size:1.1em; color:#B8E2DE!important; font-family:'JuliaMono', 'Courier New';line-height:0.7em;" -->
 
-<a href="https://www.samforeman.me"><i class="fas fa-home fa-1x" alt="`fas:Home`" style="padding-right:2px;"/></a> Sam Foreman <!-- .element style="color:#655A90;" -->
+<a href="https://www.samforeman.me"><i class="fas fa-home fa-1x" alt="`fas:Home`" style="padding-right:2px;"/></a> Sam Foreman <br> Kevin Harms<!-- .element style="color:#655A90;" -->
 
 2022-09-28 <!-- .element style="font-size:0.9em; color:#5E5381;padding:auto;margin:auto;atext-align:center!important;" -->
 
